@@ -1,0 +1,26 @@
+body{
+    background-color: green;
+}
+
+button{
+background-color: teal; 
+width: 30%;
+
+}
+
+h2{
+    
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+#output{
+
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none ;
+text-align: left;
+
+}
